@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hbeanjarah/gitix/releases/download/v0.1.0/gitix_0.1.0_windows_amd64.zip",
+            "bin": [
+                "gitix.exe"
+            ],
+            "hash": "4f9bf35943e523c0880b6e380b33e844255631f98db3ebab3f4447490d141e85"
+        },
+        "arm64": {
+            "url": "https://github.com/hbeanjarah/gitix/releases/download/v0.1.0/gitix_0.1.0_windows_arm64.zip",
+            "bin": [
+                "gitix.exe"
+            ],
+            "hash": "a66d99f3b95198c9a12178356c24cad264bb91a9c0b7cc6b1c1d010af47b5632"
+        }
+    },
+    "homepage": "https://github.com/hbeanjarah/gitix",
+    "license": "MIT",
+    "description": "Find and clean git branches. Identify and eXecute."
+}
