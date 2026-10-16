@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hbeanjarah/gitix/releases/download/v0.1.1/gitix_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/hbeanjarah/gitix/releases/download/v0.2.0/gitix_0.2.0_windows_amd64.zip",
             "bin": [
                 "gitix.exe"
             ],
-            "hash": "cbb393a17a80f217531ceb5410b239fc8ac467ab86fc1e96e8fc25402ba21958"
+            "hash": "b18d37c3bff3ac5cadb9cc915c60116e63b7b0ed6b73066c081709bfe6d5fc13"
         },
         "arm64": {
-            "url": "https://github.com/hbeanjarah/gitix/releases/download/v0.1.1/gitix_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/hbeanjarah/gitix/releases/download/v0.2.0/gitix_0.2.0_windows_arm64.zip",
             "bin": [
                 "gitix.exe"
             ],
-            "hash": "23420835d494292ad7933166780414d6029bffea77bfd9c0a8562cf1e0460d5e"
+            "hash": "66bd077f39eea45b48b071f00ccc5c264e487903180a0116798808e3a568931c"
         }
     },
     "homepage": "https://github.com/hbeanjarah/gitix",
